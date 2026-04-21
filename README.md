@@ -1,9 +1,8 @@
 # Miguel Said Salas Ruiz
 
-### Full Stack Developer
+### Full Stack Developer form México
 
-📍 México  
-💼 Full Stack Developer at GreenView Landscape  
+Currently working as a Full Stack Developer at GreenView Landscape   
 
 ---
 
