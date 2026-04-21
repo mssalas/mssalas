@@ -52,8 +52,18 @@ Open to new professional opportunities and challenging projects.
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mssalasr)
+<p align="start">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mssalas)
+<a href="https://www.linkedin.com/in/mssalasr">
+<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelsaid.dev@gmail.com)
+<a href="https://github.com/mssalas">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:miguelsaid.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
