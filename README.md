@@ -4,7 +4,6 @@
 
 📍 México  
 💼 Full Stack Developer at GreenView Landscape  
-📧 miguelsaid.dev@gmail.com  
 
 ---
 
